@@ -20,3 +20,6 @@
 
 ADD wit Master
 ADD with MIGRE
+* Слияние (Merge)
+
+1
