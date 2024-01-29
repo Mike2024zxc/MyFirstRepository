@@ -17,3 +17,6 @@
 * Отправка в удаленный репозиторий (Push)
 * Обновление локального репозитория (Pull / Fetch)
 * Слияние (Merge)
+
+ADD wit Master
+ADD with MIGRE
